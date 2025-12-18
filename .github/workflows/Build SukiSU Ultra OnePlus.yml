@@ -1,6 +1,5 @@
 name: Build OnePlus_SukiSU Ultra All
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
   <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
   <remote fetch="https://github.com/OnePlusOSS" name="origin"/>
   <default remote="clo-la" revision="dummy_revision" sync-c="true" sync-tags="false"/>
