@@ -1,6 +1,5 @@
 name: Build OnePlus_SukiSU Ultra All
 <?xml version="1.0" encoding="UTF-8"?>
-  <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
   <remote fetch="https://github.com/OnePlusOSS" name="origin"/>
   <default remote="clo-la" revision="dummy_revision" sync-c="true" sync-tags="false"/>
   <project remote="origin" name="android_kernel_common_oneplus_sm8850" path="kernel_platform/common" revision="oneplus/sm8850_b_16.0.0_oneplus_15">
